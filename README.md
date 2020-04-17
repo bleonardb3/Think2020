@@ -1,4 +1,5 @@
-## Session #1221: Explainability and Robustness of Machine Learning Models using IBM Toolkits
+#Session #1221: 
+##Bias, Explainability and Robustness of Machine Learning Models using IBM Toolkits
 
 ## Abstract:
  
