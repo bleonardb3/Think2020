@@ -4,7 +4,7 @@
 
 Black box machine learning models that cannot be understood by people, such as deep neural networks and large ensembles, are achieving impressive accuracy on various tasks. However, as machine learning is increasingly used to inform high stakes decisions, explainability and interpretability of the models is becoming essential.
 
-AI Explainability 360 is an open source toolkit developed by IBM Research, that can help explain why a machine learning model came to a decision. this toolkit can help explain the decisions to data scientists, Application users and users whom these decisions impact directly.This toolkit includes algorithms that span the different dimensions of ways of explaining along with proxy explainability metrics.
+AI Explainability 360 is an open source toolkit developed by IBM Research, that can help explain why a machine learning model came to a decision. This toolkit includes algorithms that span the different dimensions of ways of explaining along with proxy explainability metrics.
 
 For more information see links below:
 
