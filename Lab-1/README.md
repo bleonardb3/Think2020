@@ -22,6 +22,11 @@ Upon completing this lab you will learn:
     2. Check the dataset for bias
     3. Mitigate existing bias by using Adversarial Debiasing technique
     4. Train on both original and corrected dataset and compare results
+    
+### Step 1.  Please click on the link below to download the instructions to your machine.
+
+[Instructions](https://github.com/bleonardb3/Think2020/raw/master/Lab-1/AIFv1.0.pdf).
+
 
 
 
