@@ -20,7 +20,7 @@ Upon completing this lab you will learn:
 
     1. How to load datasets from the toolkit package
     2. Check the dataset for bias
-    3. Mitigate existing bias in using Adversarial Debiasing technique
+    3. Mitigate existing bias by using Adversarial Debiasing technique
     4. Train on both original and corrected dataset and compare results
 
 
