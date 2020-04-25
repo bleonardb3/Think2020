@@ -11,5 +11,19 @@ For more information see links below:
     AIF360 Demo: https://aif360.mybluemix.net
     AIF360 GitHub: https://github.com/IBM/AIF360
     AIF360 API Docs: https://aif360.readthedocs.io/en/latest/
+    
+## Objectives
+
+In this notebook you will utilize AIF360 to detect and mitigate bias on Compas dataset which is used to assess the likelihood that a criminal deefendant will reoffend.
+
+Upon completing this lab you will learn:
+
+    1. How to load datasets from the toolkit package
+    1. Check the dataset for bias
+    1. Mitigate existing bias in using Adversarial Debiasing technique
+    1. Train on both original and corrected dataset and compare results
+
+
+
 
 
