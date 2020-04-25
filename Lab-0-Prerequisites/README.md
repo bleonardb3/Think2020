@@ -1,4 +1,4 @@
-# Lab-1 - Prerequisites
+# Lab-0 - Prerequisites
 
 ## Introduction:
 
