@@ -1,4 +1,6 @@
-Introduction
+# Lab-1: Fairness Toolkit (AIF360)
+
+## Introduction
 
 Machine learning models are increasingly used to inform high stakes decisions about people. Although machine learning, by its very nature, is always a form of statistical discrimination, the discrimination becomes objectionable when it places certain privileged groups at systematic advantage and certain unprivileged groups at systematic disadvantage. Biases in training data, due to either prejudice in labels or under-/over-sampling, yields models with unwanted bias.
 
