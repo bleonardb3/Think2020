@@ -13,4 +13,4 @@ Upon completing the lab, you will have:
 
 ### Step 1. Please click on the link below to download the instructions to your machine.
 
-[Instructions](https://github.com/bleonardb3/Think2020/raw/master/Lab-0-Prerequisites/CreateProjectv1.1.pdf).
+[Instructions](https://github.com/bleonardb3/Think2020/raw/main/Lab-0-Prerequisites/CreateProjectv1.1.pdf).
